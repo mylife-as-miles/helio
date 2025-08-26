@@ -1,0 +1,10 @@
+
+> helio@0.1.0 dev /workspaces/helio
+> next dev
+
+   ▲ Next.js 15.2.4
+   - Local:        http://localhost:3000
+   - Network:      http://10.0.3.1:3000
+
+ ✓ Starting...
+ ✓ Ready in 1604ms
