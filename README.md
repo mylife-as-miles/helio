@@ -1,19 +1,8 @@
-# Helio — AI Image Editing Platform (Enterprise)
+age Editing Platform (Enterprise)
 
 Helio is a production-ready, extensible web application for AI-powered image editing and refinement. Built with Next.js (App Router), React, TypeScript, Tailwind CSS and the Fal AI client, Helio provides a secure, local-first UX backed by IndexedDB for conversation and asset persistence and a server-side API for interacting with model provider endpoints.
 
-This README provides an executive summary, architecture overview, installation and deployment instructions, operational guidance, security considerations, API contract, data model, troubleshooting, and contribution guidance for enterprise teams.
-
----
-
-## Table of contents
-
-- Executive summary
-- Project status
-- Architecture overview
-- Quickstart (developer)
-- Production deployment (recommended)
-- Configuration & secrets
+This README provides an executive summary, architecture overview, installation and deployment instructions, operational guidance, security considerations, API contract, data model, troubleshooting, and contribution guidance for enterprise teams.crets
 - API reference
 - Data model
 - Observability & diagnostics
