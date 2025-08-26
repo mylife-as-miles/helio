@@ -9,13 +9,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://v0-for-images.vercel.app](https://v0-for-images.vercel.app)**
+**[https://helio.vercel.app](https://helio.vercel.app)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.app/chat/v0-for-images-jHj6h2PDnUc](https://v0.app/chat/v0-for-images-jHj6h2PDnUc)**
+**[https://v0.app/chat/helio-jHj6h2PDnUc](https://v0.app/chat/helio-jHj6h2PDnUc)**
 
 ## How It Works
 
