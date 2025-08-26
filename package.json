@@ -1,5 +1,6 @@
 {
-sion": "0.1.0",
+  "name": "helio",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "build": "next build",
